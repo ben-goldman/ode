@@ -1,11 +1,17 @@
-from funcs import calc,  runge, tetherball, polar_rect, mapp
+from solvers import runge
+from systems import tetherball
+from helpers import calc, polar_rect, mapp
+
 import numpy as np
 import matplotlib.pyplot as plt
-# from math import pi
+
+plt.rcParams.update({
+    "text.usetex": True,
+})
 
 
 t = 100
-n = 1000000
+n = 100000
 
 ps_r = calc(runge, tetherball, [10, 0, 0, 2.55], n, t)
 
