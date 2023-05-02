@@ -1,0 +1,41 @@
+\begin{thebibliography}{}
+
+\bibitem[Burden, 2011]{burdenc2011}
+Burden, R.~L. (c2011).
+\newblock {\em Numerical Analysis}.
+\newblock {Brooks/Cole, Cengage Learning}, {Boston, MA}.
+
+\bibitem[Butcher, 1964]{butcher1964}
+Butcher, J.~C. (1964).
+\newblock On {{Runge-Kutta}} processes of high order.
+\newblock {\em Journal of the Australian Mathematical Society}, 4(2):179--194.
+
+\bibitem[Coddington, 1955]{coddington1955}
+Coddington, E.~A. (1955).
+\newblock {\em Theory of Ordinary Differential Equations}.
+\newblock {McGraw-Hill}, {New York}.
+
+\bibitem[Dahlquist, 1956]{dahlquist1956}
+Dahlquist, G. (1956).
+\newblock Convergence and stability in the numerical integration of ordinary
+  differential equations.
+\newblock {\em MATHEMATICA SCANDINAVICA}, 4:33--53.
+
+\bibitem[Greenbaum and Chartier, 2012]{greenbaum2012}
+Greenbaum, A. and Chartier, T.~P. (2012).
+\newblock {\em Numerical Methods: Design, Analysis, and Computer Implementation
+  of Algorithms}.
+\newblock {Princeton University Press}, {Princeton, N.J}.
+
+\bibitem[Press, 2007]{press2007}
+Press, W.~H., editor (2007).
+\newblock {\em Numerical Recipes: The Art of Scientific Computing}.
+\newblock {Cambridge University Press}, {Cambridge, UK ; New York}, 3rd ed
+  edition.
+
+\bibitem[S{\"u}li, 2010]{suli2010}
+S{\"u}li, E. (2010).
+\newblock Numerical solution of ordinary differential equations.
+\newblock {\em Mathematical Institute, University of Oxford}.
+
+\end{thebibliography}
