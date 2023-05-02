@@ -34,7 +34,7 @@
 
 \graphicspath{{../}}
 
-\title{A Crash Course in Numerical Methods for Initial Value Problems \\ \small{How to make a computer do horrible math for you}}
+\title{A Crash Course in Numerical Methods for Initial Value Problems}
 \author{Ben Goldman}
 
 \begin{document}
@@ -565,7 +565,7 @@ Suppose the weight is hanging still, and someone gives it a strong counterclockw
 
 Any symbolic/closed-form solution that describes the weight's position as a function of time would be horrendous. (Even a pendulum simply swinging has no closed-form solution.) Therefore, we should use a numerical solver to model this situation. Applying the 4$^\mathrm{th}$-order Runge-Kutta Method to this system over $t \in [0, 100]$seconds with a step size $h = 0.0001$ and the initial conditions 
 \[r(0) = \SI{10}{\meter} \quad r'(0) = \SI{0}{\meter\per\second} \quad \theta(0) = \SI{0}{\radian}, \qq{and} \theta'(0) = \SI{2.55}{\radian\per\second}\]
-produces the results in figure \ref{fig:f1}. The result indeed is how we would expect a tetherball to behave.
+produces the results in Figure \ref{fig:f1}. The result indeed is how we would expect a tetherball to behave.
 
 \nocite{burdenc2011}
 \nocite{greenbaum2012}

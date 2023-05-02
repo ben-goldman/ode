@@ -1,4 +1,11 @@
-# ode
-Example code for MATH 1208 final project
+# A Crash Course in Numerical Methods for Initial Value Problems
 
-To run the example from section 8, run `python tetherball.py` from the repo root directory.
+Example code for MATH 1208 final project.
+
+To run the example from section 8, run `python tetherball.py` from the root directory.
+
+Dependencies: 
+- python
+- matplotlib
+- numpy
+- tqdm
